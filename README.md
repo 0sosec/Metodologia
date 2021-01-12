@@ -1,6 +1,7 @@
 # Recopilación de recursos de Pentesting
-<img align="left" width="100" height="100" src="/assets/ososs.png">
-
+<p align="center">
+  <img width="400" height="400" src="/assets/ososs.png">
+</p>
 Faltan muchas cosas pero hay demasiada información, iré actualizando poco a poco.
 Salvo que se indique específicamente la información está en inglés.
 
