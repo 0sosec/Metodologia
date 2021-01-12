@@ -4,8 +4,7 @@
 </p>
 <div> Salvo que se indique específicamente la información está en inglés.
   <br>
-  Faltan bastantes cosas
-</div>
+Recopilación en progreso.</div>
 
 <h1>Guías, recursos</h1>
 <li><a
