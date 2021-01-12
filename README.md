@@ -1,5 +1,5 @@
 # Metodologia
-Recopilación de fuentes y métodos de Pentesting
+Recopilación de fuentes y métodos de Pentesting y sistemas.
 Faltan muchas cosas pero hay demasiada información, iré actualizando poco a poco.
 Salvo que se indique específicamente la información está en inglés.
 
@@ -8,7 +8,8 @@ Salvo que se indique específicamente la información está en inglés.
         href="https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/Methodology%20and%20Resources">PayloadsAllTheThings</a> Increíble
     recopilación con todo tipo de información, shellcodes, herramientas...</li>
     <li><a href="https://sushant747.gitbooks.io/total-oscp-guide/content/privilege_escalation_windows.html
-">sushant747 Total OSCP guide</a> Una guía muy buena en general con muchisimo contenido.</li>
+">sushant747 Total OSCP guide</a> No se extiende mucho pero es una guía muy completa. Destacar su metodología.</li>
+<li><a href="https://github.com/0x4D31/awesome-oscp">0x4D31 - Awesome OSCP </a> Una recopilación orientada a preparar el OSCP, con muchos consejos.</li> 
 
     
 <h1>Notas y apuntes</h1>
