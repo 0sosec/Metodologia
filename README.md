@@ -39,7 +39,7 @@ Recopilaciones buenísimas y gente que sabe mucho más que yo.<br>
 
 
 <h1>Metodología</h1>
-<li><a href="https://ippsec.rocks/">Ippsec</a>En ippsec.rocks puedes buscar HTB resueltos por temática. Tiene un canal
+<li><a href="https://ippsec.rocks/">Ippsec</a> En ippsec.rocks puedes buscar HTB resueltos por temática. Tiene un canal
     de <a href="https://www.youtube.com/channel/UCa6eh7gCkpPo5XXUDfygQQA">youtube</a> Personalmente aprendo un montón con
     estos vídeos, los recomiendo.</li>
 <li><a href="http://www.vulnerabilityassessment.co.uk/">Vulnerability Assesment</a> Todo es de buena calidad, pero
