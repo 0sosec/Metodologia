@@ -1,6 +1,6 @@
 # Recopilación de recursos de Pentesting
+<img align="left" width="100" height="100" src="/assets/ososs.png">
 
-![Ososec](/assets/ososs.png)
 Faltan muchas cosas pero hay demasiada información, iré actualizando poco a poco.
 Salvo que se indique específicamente la información está en inglés.
 
