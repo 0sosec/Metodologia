@@ -8,6 +8,9 @@ Recopilaciones buenísimas y gente que sabe mucho más que yo.<br>
 <li><a
         href="https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/Methodology%20and%20Resources">PayloadsAllTheThings</a> Increíble
     recopilación con todo tipo de información, shellcodes, herramientas...</li>
+    <li><a href="https://sushant747.gitbooks.io/total-oscp-guide/content/privilege_escalation_windows.html
+">sushant747 Total OSCP guide</a> Una guía muy buena en general con muchisimo contenido.</li>
+
     
 <h1>Notas y apuntes</h1>
 <li><a href="https://joplinapp.org/">Joplin</a> Lo estoy usando actualmente, tiene algunas carencias pero una
@@ -31,8 +34,6 @@ Recopilaciones buenísimas y gente que sabe mucho más que yo.<br>
 <li> <a href="https://pentest.blog/windows-privilege-escalation-methods-for-pentesters/
 ">Pentest.blog</a> Métodos de escalada para pentesters.</li>
 <li><a href="https://guif.re/windowseop">Guif.re</a> Comandos útiles en Windows.</li>
-<li><a href="https://sushant747.gitbooks.io/total-oscp-guide/content/privilege_escalation_windows.html
-">sushant747 Total OSCP guide</a> Una guía muy buena en general con muchisimo contenido.</li>
 
 <h1>Aprender</h1>
 <h2>Scripting</h2>
