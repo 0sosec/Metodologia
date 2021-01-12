@@ -30,6 +30,12 @@ Recopilaciones buenísimas y gente que sabe mucho más que yo.<br>
 <li> <a href="https://www.fuzzysecurity.com/tutorials/16.html/">Fuzzysecurity</a> Escalada básica en Windows.</li>
 <li> <a href="https://pentest.blog/windows-privilege-escalation-methods-for-pentesters/
 ">Pentest.blog</a> Métodos de escalada para pentesters.</li>
+<li><a href="https://guif.re/windowseop">Guif.re</a> Comandos útiles en Windows.</li>
+<li><a href="https://sushant747.gitbooks.io/total-oscp-guide/content/privilege_escalation_windows.html
+">sushant747 Total OSCP guide</a> Una guía muy buena en general con muchisimo contenido.</li>
+
+https://sushant747.gitbooks.io/total-oscp-guide/content/privilege_escalation_windows.html
+https://guif.re/windowseop
 
 https://pentest.blog/windows-privilege-escalation-methods-for-pentesters/
 <h1>Aprender</h1>
