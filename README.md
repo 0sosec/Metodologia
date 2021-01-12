@@ -8,7 +8,7 @@ Recopilaciones buenísimas y gente que sabe mucho más que yo.<br>
         href="https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/Methodology%20and%20Resources">PayloadsAllTheThings</a>Increíble
     recopilación con todo tipo de información, shellcodes, herramientas...</li>
 <h1>Notas y apuntes</h1>
-<li>Joplin <a href="https://joplinapp.org/">Joplin</a> Lo estoy usando actualmente, tiene algunas carencias pero una
+<li><a href="https://joplinapp.org/">Joplin</a> Lo estoy usando actualmente, tiene algunas carencias pero una
     interfaz muy limpia.</li>
 <li><a href="http://keepnote.org/">Keepnote</a> Muy bueno, algo desfasado. No apto para pantallas con mucha resolución
 </li>
