@@ -3,7 +3,7 @@ Recopilación de fuentes y métodos de Pentesting
 Faltan muchas cosas pero hay demasiada información, iré actualizando poco a poco.
 
 <h1>Guías, recursos</h1>
-Recopilaciones buenísimas y gente que sabe mucho más que yo.
+Recopilaciones buenísimas y gente que sabe mucho más que yo.<br>
 <li><a
         href="https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/Methodology%20and%20Resources">PayloadsAllTheThings</a>Increíble
     recopilación con todo tipo de información, shellcodes, herramientas...</li>
