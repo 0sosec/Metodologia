@@ -2,7 +2,9 @@
 <p align="center">
   <img width="200" height="200" src="/assets/ososs.png">
 </p>
-<div style="color:blue"> Salvo que se indique específicamente la información está en inglés.
+<div> Salvo que se indique específicamente la información está en inglés.
+  <br>
+  Faltan bastantes cosas
 </div>
 
 <h1>Guías, recursos</h1>
