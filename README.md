@@ -30,7 +30,7 @@ Recopilaciones buenísimas y gente que sabe mucho más que yo.<br>
 <h2>Scripting</h2>
 <li><a href="http://www.rexegg.com/">RexEgg</a> Buen tutorial para novatos con regex.</li>
 <li><a href="https://overthewire.org/wargames/bandit/">Bandit</a> Juego para aprender comandos básicos de Linux.</li>
-<li><a href="http://www.linfo.org/stdio.html">Linfo</a>Linux Information Project, muy buen contenido con explicaciones a
+<li><a href="http://www.linfo.org/stdio.html">Linfo</a> Linux Information Project, muy buen contenido con explicaciones a
     fondo.</li>
 <h2>Un poco de todo</h2>
 <li><a href="http://www.linusakesson.net/programming/tty/"> TTY, historia y funcionamiento.</a></li>
