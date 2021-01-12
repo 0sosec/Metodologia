@@ -26,7 +26,11 @@ Recopilaciones buenísimas y gente que sabe mucho más que yo.<br>
 <li> <a href="https://blog.g0tmi1k.com/2011/08/basic-linux-privilege-escalation/">g0tmilk</a> Vectores típicos de
     escalada en linux</li>
 <h1>Windows Escalada de Privilegios</h1>
-<li> <a href="https://www.fuzzysecurity.com/tutorials/16.html/">Fuzzysecurity</a>Escalada básica en Windows.</li>
+<li> <a href="https://www.fuzzysecurity.com/tutorials/16.html/">Fuzzysecurity</a> Escalada básica en Windows.</li>
+<li> <a href="https://pentest.blog/windows-privilege-escalation-methods-for-pentesters/
+">Pentest.blog</a>Métodos de escalada para pentesters.</li>
+
+https://pentest.blog/windows-privilege-escalation-methods-for-pentesters/
 <h1>Aprender</h1>
 <h2>Scripting</h2>
 <li><a href="http://www.rexegg.com/">RexEgg</a> Buen tutorial para novatos con regex.</li>
