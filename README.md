@@ -1,5 +1,5 @@
-# Metodologia
-Recopilación de fuentes y métodos de Pentesting y sistemas.
+# Recopilación de fuentes y métodos de Pentesting y sistemas.
+
 Faltan muchas cosas pero hay demasiada información, iré actualizando poco a poco.
 Salvo que se indique específicamente la información está en inglés.
 
