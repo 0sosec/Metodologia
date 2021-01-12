@@ -1,6 +1,7 @@
 # Metodologia
 Recopilación de fuentes y métodos de Pentesting
 Faltan muchas cosas pero hay demasiada información, iré actualizando poco a poco.
+Salvo que se indique específicamente la información está en inglés.
 
 <h1>Guías, recursos</h1>
 Recopilaciones buenísimas y gente que sabe mucho más que yo.<br>
@@ -28,7 +29,7 @@ Recopilaciones buenísimas y gente que sabe mucho más que yo.<br>
 <h1>Windows Escalada de Privilegios</h1>
 <li> <a href="https://www.fuzzysecurity.com/tutorials/16.html/">Fuzzysecurity</a> Escalada básica en Windows.</li>
 <li> <a href="https://pentest.blog/windows-privilege-escalation-methods-for-pentesters/
-">Pentest.blog</a>Métodos de escalada para pentesters.</li>
+">Pentest.blog</a> Métodos de escalada para pentesters.</li>
 
 https://pentest.blog/windows-privilege-escalation-methods-for-pentesters/
 <h1>Aprender</h1>
