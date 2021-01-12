@@ -1,5 +1,6 @@
 # Recopilación de recursos de Pentesting
 
+![Ososec](/assets/ososs.png)
 Faltan muchas cosas pero hay demasiada información, iré actualizando poco a poco.
 Salvo que se indique específicamente la información está en inglés.
 
