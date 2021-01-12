@@ -2,8 +2,9 @@
 <p align="center">
   <img width="200" height="200" src="/assets/ososs.png">
 </p>
-Faltan muchas cosas pero hay demasiada información, iré actualizando poco a poco.
+> Faltan muchas cosas pero hay demasiada información, iré actualizando poco a poco. 
 Salvo que se indique específicamente la información está en inglés.
+
 
 <h1>Guías, recursos</h1>
 <li><a
