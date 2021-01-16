@@ -50,7 +50,7 @@ Recopilación en progreso.</div>
 <li><a href="https://www.pathname.com/fhs/pub/fhs-2.3.html#THEUSRHIERARCHY%20%22Filesystem%20Hierarchy%20Standard"> Filesystem
         Hierarchy Standard.</a></li>
 <h2>Libros</h2>
-<li>Internet Infrastructure - Richard Fox y Wei Hao : Libro muy completo para aprender de redes.</li>
+<li><a href="https://www.taylorfrancis.com/books/internet-infrastructure-richard-fox-wei-hao/10.1201/9781315175577">Internet Infrastructure - Richard Fox y Wei Hao</a> : Libro muy completo para aprender de redes.</li>
 
 <h1>Metodología</h1>
 <li><a href="https://ippsec.rocks/">Ippsec</a> En ippsec.rocks puedes buscar HTB resueltos por temática. Tiene un canal
