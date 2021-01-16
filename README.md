@@ -13,6 +13,7 @@ Recopilación en progreso.</div>
     <li><a href="https://sushant747.gitbooks.io/total-oscp-guide/content/privilege_escalation_windows.html
 ">sushant747 Total OSCP guide</a> No se extiende mucho pero es una guía muy completa. Destacar su metodología.</li>
 <li><a href="https://github.com/0x4D31/awesome-oscp">0x4D31 - Awesome OSCP </a> Una recopilación orientada a preparar el OSCP, con muchos consejos.</li> 
+<li><a href="https://fwhibbit.es/en/">Fwhibbit</a> De todo, muchas cosas concretas con ejemplos.
 
     
 <h1>Notas y apuntes</h1>
