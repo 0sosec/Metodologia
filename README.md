@@ -49,6 +49,8 @@ Recopilación en progreso.</div>
 <li><a href="http://www.linusakesson.net/programming/tty/"> TTY, historia y funcionamiento.</a></li>
 <li><a href="https://www.pathname.com/fhs/pub/fhs-2.3.html#THEUSRHIERARCHY%20%22Filesystem%20Hierarchy%20Standard"> Filesystem
         Hierarchy Standard.</a></li>
+<h2>Libros</h2>
+<li>Internet Infrastructure - Richard Fox y Wei Hao : Libro muy completo para aprender de redes.</li>
 
 <h1>Metodología</h1>
 <li><a href="https://ippsec.rocks/">Ippsec</a> En ippsec.rocks puedes buscar HTB resueltos por temática. Tiene un canal
@@ -56,3 +58,4 @@ Recopilación en progreso.</div>
     estos vídeos, los recomiendo.</li>
 <li><a href="http://www.vulnerabilityassessment.co.uk/">Vulnerability Assesment</a> Todo es de buena calidad, pero
     recomiendo ir tachando de la lista del Pen Test Framework cuando tengais un encargo.</li>
+
