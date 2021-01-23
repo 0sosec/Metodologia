@@ -39,6 +39,9 @@ Recopilación en progreso.</div>
 ">Pentest.blog</a> Métodos de escalada para pentesters.</li>
 <li><a href="https://guif.re/windowseop">Guif.re</a> Comandos útiles en Windows.</li>
 
+<h1>Reversing</h1>
+<li><a href="https://github.com/tylerha97/awesome-reversing/">Awesome Reversing</a> Recursos de reversing.</li>
+
 <h1>Aprender</h1>
 <h2>Scripting</h2>
 <li><a href="http://www.rexegg.com/">RexEgg</a> Buen tutorial para novatos con regex.</li>
