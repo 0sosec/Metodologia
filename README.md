@@ -62,3 +62,7 @@ Recopilación en progreso.</div>
 <li><a href="http://www.vulnerabilityassessment.co.uk/">Vulnerability Assesment</a> Todo es de buena calidad, pero
     recomiendo ir tachando de la lista del Pen Test Framework cuando tengais un encargo.</li>
 
+
+<h1>Otros</h1>
+<h2>CTFs</h2>
+<li><a href="https://github.com/w181496/Web-CTF-Cheatsheet">Web-CTF-Cheatsheet</a> Los CTFs son perfectos para iniciarse y aprender nuevas habilidades, aquí recopilan trucos que vienen muy bien para avanzar.</li>
