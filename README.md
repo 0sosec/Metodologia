@@ -48,6 +48,8 @@ Recopilación en progreso.</div>
 <li><a href="https://overthewire.org/wargames/bandit/">Bandit</a> Juego para aprender comandos básicos de Linux.</li>
 <li><a href="http://www.linfo.org/stdio.html">Linfo</a> Linux Information Project, muy buen contenido con explicaciones a
     fondo.</li>
+<h2>Lenguajes de Programación</h2>
+<a href="Modern Perl>"http://modernperlbooks.com/books/modern_perl_2014/ </a> Libro gratuito online, muy bueno para iniciarse en Perl.
 <h2>Un poco de todo</h2>
 <li><a href="http://www.linusakesson.net/programming/tty/"> TTY, historia y funcionamiento.</a></li>
 <li><a href="https://www.pathname.com/fhs/pub/fhs-2.3.html#THEUSRHIERARCHY%20%22Filesystem%20Hierarchy%20Standard"> Filesystem
@@ -55,7 +57,7 @@ Recopilación en progreso.</div>
 <h2>Libros</h2>
 <li><a href="https://www.taylorfrancis.com/books/internet-infrastructure-richard-fox-wei-hao/10.1201/9781315175577">Internet Infrastructure - Richard Fox y Wei Hao</a> : Libro muy completo para aprender de redes.</li>
 
-<h1>Metodología</h1>
+<h1>Métodos</h1>
 <li><a href="https://ippsec.rocks/">Ippsec</a> En ippsec.rocks puedes buscar HTB resueltos por temática. Tiene un canal
     de <a href="https://www.youtube.com/channel/UCa6eh7gCkpPo5XXUDfygQQA">youtube</a> Personalmente aprendo un montón con
     estos vídeos, los recomiendo.</li>
