@@ -49,7 +49,7 @@ Recopilación en progreso.</div>
 <li><a href="http://www.linfo.org/stdio.html">Linfo</a> Linux Information Project, muy buen contenido con explicaciones a
     fondo.</li>
 <h2>Lenguajes de Programación</h2>
-<li><a href="http://modernperlbooks.com/books/modern_perl_2014/>"Modern Perl </a> Libro gratuito online, muy bueno para iniciarse en Perl.</li>
+<li><a href="http://modernperlbooks.com/books/modern_perl_2014/"> Modern Perl </a> Libro gratuito online, muy bueno para iniciarse en Perl.</li>
 <h2>Un poco de todo</h2>
 <li><a href="http://www.linusakesson.net/programming/tty/"> TTY, historia y funcionamiento.</a></li>
 <li><a href="https://www.pathname.com/fhs/pub/fhs-2.3.html#THEUSRHIERARCHY%20%22Filesystem%20Hierarchy%20Standard"> Filesystem
