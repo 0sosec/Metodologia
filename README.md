@@ -26,8 +26,12 @@ Recopilación en progreso.</div>
 </p>
 
 <h1>Herramientas</h1>
-<p>Hay un montón la verdad, muchas vienen con Kali o Parrot. Aquí iré recopilando las más extrañas y buenos manuales.
+<p>La mayoría de herramientas que empleo vienen incluidas en distros como Kali o Parrot. No añadiré dichas herramientas a la lista.
 </p>
+<h2>Esteganografía</h2>
+<li><a href="https://github.com/DominicBreuker/stego-toolkit/"> Stego Toolkit</a> Imagen Docker que contiene herramientas muy útiles para esteganografía.</li>
+
+  
 
 <h1>Linux Escalada de Privilegios</h1>
 <li> <a href="https://blog.g0tmi1k.com/2011/08/basic-linux-privilege-escalation/">g0tmilk</a> Vectores típicos de
