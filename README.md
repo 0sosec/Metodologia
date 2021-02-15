@@ -4,7 +4,7 @@
 </p>
 <div> Salvo que se indique específicamente la información está en inglés.
   <br>
-Recopilación en progreso.</div>
+Recopilación en progreso, cualquier sugerencia es bienvenida.</div>
 
 <h1>Guías, recursos</h1>
 <li><a
