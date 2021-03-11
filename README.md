@@ -1,4 +1,4 @@
-# Recursos de Pentesting
+# Recursos de Ciberseguridad
 <p align="center">
   <img width="200" height="200" src="/assets/ososs.png">
 </p>
@@ -14,7 +14,7 @@ Recopilación en progreso, cualquier sugerencia es bienvenida.</div>
 ">sushant747 Total OSCP guide</a> No se extiende mucho pero es una guía muy completa. Destacar su metodología.</li>
 <li><a href="https://github.com/0x4D31/awesome-oscp">0x4D31 - Awesome OSCP </a> Una recopilación orientada a preparar el OSCP, con muchos consejos.</li> 
 <li><a href="https://fwhibbit.es/en/">Fwhibbit</a> De todo, muchas cosas concretas con ejemplos.
-
+<li><a href="https://github.com/imthenachoman/How-To-Secure-A-Linux-Server#guide-objective">How To Secure A Linux Server</a> Hardening de servidores Linux.
     
 <h1>Notas y apuntes</h1>
 <li><a href="https://joplinapp.org/">Joplin</a> Lo estoy usando actualmente, tiene algunas carencias pero una
