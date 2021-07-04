@@ -15,6 +15,7 @@ Recopilación en progreso, cualquier sugerencia es bienvenida.</div>
 <li><a href="https://github.com/0x4D31/awesome-oscp">0x4D31 - Awesome OSCP </a> Una recopilación orientada a preparar el OSCP, con muchos consejos.</li> 
 <li><a href="https://fwhibbit.es/en/">Fwhibbit</a> De todo, muchas cosas concretas con ejemplos.
 <li><a href="https://github.com/imthenachoman/How-To-Secure-A-Linux-Server#guide-objective">How To Secure A Linux Server</a> Hardening de servidores Linux.
+ 
     
 <h1>Notas y apuntes</h1>
 <li><a href="https://joplinapp.org/">Joplin</a> Lo estoy usando actualmente, tiene algunas carencias pero una
@@ -31,7 +32,9 @@ Recopilación en progreso, cualquier sugerencia es bienvenida.</div>
 <h2>Esteganografía</h2>
 <li><a href="https://github.com/DominicBreuker/stego-toolkit/"> Stego Toolkit</a> Imagen Docker que contiene herramientas muy útiles para esteganografía.</li>
 
-  
+<h1>Buffer Overflow</h1>
+<li> <a href="https://github.com/V1n1v131r4/OSCP-Buffer-Overflow">OSCP - Buffer Overflow</a> Guía de BOF básico por V1n1v131r4.</li>
+
 
 <h1>Linux Escalada de Privilegios</h1>
 <li> <a href="https://blog.g0tmi1k.com/2011/08/basic-linux-privilege-escalation/">g0tmilk</a> Vectores típicos de
